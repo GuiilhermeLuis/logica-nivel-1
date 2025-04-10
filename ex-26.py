@@ -1,5 +1,5 @@
 vetor = []
-# Aqui, criamos uma lista vazia chamada vetor. Ele guarda os 5 numeros digitados pelo usuario
+# Aqui, criamos uma lista vazia chamada vetor. Ele guarda os 5 ou + numeros digitados pelo usuario
 for i in range(5):
 # O laço for vai repetir 5 vezes(de i = 0 até i = 4)
     numero = int(input("Digite o {i+1} numero: "))
